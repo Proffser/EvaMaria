@@ -12,7 +12,7 @@ class script(object):
 ✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v1.0.1 [ 𝙱𝙴𝚃𝙰 ]"""
     SOURCE_TXT = """<b>NOTE:</b>
 - Eva Maria is a open source project. 
-- Source - https://github.com/EvamariaTG/EvaMaria  
+- Source - https://telegra.ph/file/8fa316a9b68e83953cff7.mp4
 
 <b>DEVS:</b>
 - <a href=https://t.me/Anonymousbro36>The loser</a>"""
