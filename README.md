@@ -7,5 +7,6 @@ No Other Details About this Bot...
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
-
+$deploy on Railway 
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com)
 Bot Cloned From Evamaria Project And Cloned By Anoop...
